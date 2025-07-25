@@ -1,0 +1,22 @@
+# Employee Records
+ID,Name,Department,Salary
+101,John Doe,Engineering,70000
+102,Jane Smith,Marketing,65000
+103,Bob Johnson,Engineering,72000
+104,Alice Brown,HR,60000
+105,Charlie Davis,Marketing,64000
+
+# Notes
+All salaries are in USD.
+Engineering team leads the product development.
+Marketing team focuses on outreach and growth.
+HR handles recruitment and employee well-being.
+
+# TODO
+- Prepare Q3 salary report
+- Schedule team meetings
+- Organize training sessions
+- Update company handbook
+
+# EOF
+
